@@ -16,20 +16,21 @@ You can use this for any application where a linear relationship is expected. Fo
 
 ## How to run
 
-1.  **Prerequisites**: Make sure you have Python 3.8 or higher installed.
+### Prerequisites
+Make sure you have Python 3.8 or higher installed.
 
-2.  **Clone the Repository and Navigate to the Directory**:
+1.  **Clone the Repository and Navigate to the Directory**:
     ```bash
     git clone [https://github.com/yuheng186/LinearRegressionFromScratch.git](https://github.com/yuheng186/LinearRegressionFromScratch.git)
     cd LinearRegressionFromScratch
     ```
 
-3.  **Install Dependencies**:
+2.  **Install Dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Run the Demo**:
+3.  **Run the Demo**:
     ```bash
     python demo.py
     ```
