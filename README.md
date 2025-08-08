@@ -21,8 +21,8 @@ Make sure you have Python 3.8 or higher installed.
 
 ### Step 1: Clone the Repository and Navigate to the Directory
 ```bash
-git clone https://github.com/yuheng186/LinearRegressionFromScratch.git
-cd LinearRegressionFromScratch
+git clone https://github.com/yuheng186/linear-regression-from-scratch.git
+cd linear-regression-from-scratch
 ```
 
 ### Step 2: Install Dependencies
