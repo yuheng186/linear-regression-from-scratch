@@ -86,6 +86,9 @@ class LinearRegression:
         # Loss: MSE = (1/n) * Σ(y - (w·x + b))²
         # Update weights and bias in every epoch using gradient descent
         for _ in range(self.epochs):
+            dw = np.zeros(n_features)
+            db = 0
+
             y_pred = np.dot(x_train, self.weights) + self.bias
 
             error = y_train - y_pred
